@@ -9,6 +9,12 @@ Repository ini berisi halaman web statis (`index.html`) yang menyajikan **Analis
 
 Halaman ini berfungsi sebagai alat bantu visual untuk pengambilan keputusan strategis dalam menentukan model dan jenjang harga produk Voxia.
 
+## 🌐 Live Demo
+
+Anda dapat melihat hasil analisis secara langsung di halaman web berikut:
+
+**[https://voxia-id.github.io/VOXIA-PRICE/](https://voxia-id.github.io/VOXIA-PRICE/)**
+
 ## ✨ Fitur Utama Halaman Analisis
 
 - **Visualisasi Data Pasar:** Grafik dan metrik kunci yang menunjukkan potensi pasar, model harga pesaing, dan rata-rata harga bulanan.
